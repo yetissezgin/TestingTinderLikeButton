@@ -1,4 +1,4 @@
-package com.tinder.Test;
+package Test;
 
 import java.net.MalformedURLException;
 import java.net.URL;

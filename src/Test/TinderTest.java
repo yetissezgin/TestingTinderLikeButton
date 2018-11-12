@@ -1,4 +1,4 @@
-package com.tinder.Test;
+package Test;
 
 
 import static org.junit.Assert.assertEquals;
@@ -16,6 +16,7 @@ import cucumber.api.java.en.When;
 public class TinderTest extends CommonMethods {
 	
 	CommonMethods common;
+	int thelimitofdailylikes=99;
 	
 	@Before
 	public void connection() {
@@ -49,7 +50,7 @@ public class TinderTest extends CommonMethods {
 	}	
 	@When("^it comes to the last profile, the total number of the likes is checked$")
 	public void it_comes_to_the_last_profile_the_total_number_of_the_likes_is_checked() {
-		assertEquals(99,common.totalnumber);
+		assertEquals(thelimitofdailylikes,common.totalnumber);
 	}
 
 

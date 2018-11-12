@@ -1,4 +1,4 @@
-package com.tinder.TestRunner;
+package TestRunner;
 
 import org.junit.runner.RunWith;
 import cucumber.api.CucumberOptions;
@@ -7,8 +7,8 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-	features="src/com/tinder/Steps/Tinder.feature",
-	glue= {"com/tinder/Test"}
+	features="src/Steps/Tinder.feature",
+	glue= {"Test"}
 )
 
 public class TestRunner {
