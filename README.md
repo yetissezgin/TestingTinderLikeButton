@@ -1,9 +1,9 @@
 
 This is not a comprehensive test that encompasses all the possibilities that may occur during test rather, it is an exemplary test 
 
-in which I just wanted to illustrate the employment of Selenium, Appium, Cucumber, and Java in testing projects. This test is based on some 
+in which I just wanted to illustrate the employment of Selenium, Appium, Cucumber, and Java in testing projects. 
 
-assumptions like the internet and location are on and you have a facebook account before running the test.
+This test is based on some assumptions like the internet and location are on and you have a facebook account before running the test.
 
 
 
