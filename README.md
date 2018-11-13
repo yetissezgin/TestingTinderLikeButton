@@ -5,7 +5,7 @@ in which I just wanted to illustrate the employment of Selenium, Appium, Cucumbe
 
 Before running this file,  make sure that your internet and location are on. 
 
-Moreover, you have to modify a few things with regards to devices properties ; 
+Moreover, you have to modify a few things with regards to device properties ; 
 
 
 In CommonMethods.java, these parts must be changed with the properties of your phone; 
