@@ -3,12 +3,7 @@ This is not a comprehensive test that encompasses all the possibilities that may
 
 in which I just wanted to illustrate the employment of Selenium, Appium, Cucumber, and Java in testing projects. 
 
-This test is based on some assumptions like the internet and location are on and you have a facebook account before running the test.
-
-
-
-
-Before running this file,  make sure that your internet and location is on. 
+Before running this file,  make sure that your internet and location are on. 
 
 Moreover, you have to modify a few things with regards to devices properties ; 
 
